@@ -1,0 +1,19 @@
+@import '../abstract/variaveis';
+
+#curiosidades {
+    padding: 1rem;
+    text-align: center;
+    margin: 5px;
+    h3 {
+        color: $cor-primaria;
+        font-size: $tamanho-titulo / 2;
+    }
+    h4 {
+        color: $cor-primaria;
+        font-size: $tamanho-titulo / 3;
+    }
+    p {
+        margin-top: 10px;
+        color: $cor-terciaria;
+    }
+}
